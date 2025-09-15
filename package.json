@@ -1,0 +1,11 @@
+{
+  "name": "otus-react",
+  "version": "1.0.0",
+  "description": "otus-react",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
